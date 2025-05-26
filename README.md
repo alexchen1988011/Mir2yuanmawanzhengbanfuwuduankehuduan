@@ -12,9 +12,9 @@
 ## 使用说明
 
 1. **克隆仓库**：
-   ```bash
+
       git clone https://github.com/your-repo-url/Mir2.git
-         ```
+
 
          2. **环境配置**：
             - 确保你的开发环境满足Mir2的运行要求。
